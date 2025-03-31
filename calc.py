@@ -9,3 +9,5 @@ if y == 0:
     print("Cant do it")
 else:
     print(f"div: {x / y}")
+
+
